@@ -1,6 +1,6 @@
 ---
 title: Taha's Graph
-draft: "false"
+draft: false
 date: 2023-09-13
 tags:
   - index
